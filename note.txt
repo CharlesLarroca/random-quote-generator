@@ -1,0 +1,80 @@
+/* .quote-container{
+    background-color: #DFDBE580;
+    width: 1009px;
+    height: 673px;
+    border-radius: 10px;
+    margin-left: 19.5px;
+    margin-right: 19.5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 0px 5px 5px 0px rgba(0,0,0,0.28);
+}
+
+.quote-content{
+    width: 85%;
+    height: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.quote-icon{
+    width: 141px;
+    height: 141px;
+}
+
+.quote-text-container{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 56px;
+    color: #364BA7;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+hr{
+    color: #364BA7;
+    height: 1px;
+    margin-top: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.quote-author{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: italic;
+    font-size: 48px;
+    color: #F583A7;
+    margin-top: 10px;
+}
+
+.icon-btn-container{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.twitter-icon{
+    width: 69px;
+    height: 69px;
+    cursor: pointer;
+}
+
+.btn-new-quote{
+    border: none;
+    cursor: pointer;
+    width: 230px;
+    height: 83px;
+    background-color: #364BA7;
+    color: #F583A7;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+    border-radius: 10px;
+} */
